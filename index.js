@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('ready', async() => {
 var server = "507614444592037889"; // ايدي السررفر
-var channel = "513345664915079178";//ايدي الروم
+var channel = "513345650956697613";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**  Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer **')
     },305);
