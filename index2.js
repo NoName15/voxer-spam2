@@ -6,10 +6,10 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "511633362331631621"; // ايدي السررفر
-var channel = "511639594286972948";//ايدي الروم
+var server = "507614444592037889"; // ايدي السررفر
+var channel = "513345664915079178";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** فرعونفؤعونفؤعونفؤعونفؤعونفؤعونفرعونفؤعونفؤعونفؤعونفؤعونفرعونفرعونفرعونفؤعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفؤعونفؤعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفؤعونفرعونفرعونفؤعونفرعونفرعونفؤعونفؤعونفؤعونفؤعونفؤعونفؤعونفرعونفرعونفرعونفرعونفرعونفؤعونفرعونفرعونفرعومفرعون **')
+    client.guilds.get(server).channels.get(channel).send('**  Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer **')
     },305);
 })
 
